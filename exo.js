@@ -1,0 +1,14 @@
+console.log("numero 1: " + Math.floor(34.589456));
+console.log("numero 2: " + Math.floor(68.412784));
+console.log("numero 3: " + Math.ceil(39.456));
+console.log("numero 4: " + Math.ceil(27.34876541));
+console.log("numero 5: " + Math.round(5.68));
+console.log("numero 6: " + Math.round(5.41));
+console.log("numero 7: " + Math.trunc(6.12457));
+console.log("numero 8: " + Math.trunc(9.568124));
+console.log("numero 9: " + Math.min(5, 1, 12, -1, 45));
+console.log("numero 10: " + Math.min(9, 12, 16, 44, 3));
+console.log("numero 11: " + Math.max(5, 1, 12, -1, 45));
+console.log("numero 12: " + Math.max(9, 12, 16, 44, 3));
+console.log("numero 13: " + Math.abs(-6));
+console.log("numero 14: " + Math.abs(-56));
